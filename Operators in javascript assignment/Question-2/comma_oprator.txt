@@ -1,0 +1,3 @@
+Question- Describe the usage of the comma operator in JavaScript and provide an example.
+ => The comma is an operatorin JavaScript that return the last operand while evaluating all operands in an 
+    expression. The evaluation is from the left to right direction.

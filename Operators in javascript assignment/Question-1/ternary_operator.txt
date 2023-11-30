@@ -1,0 +1,8 @@
+Question- Explain the usage of ternary operator with syntax and write a program to check whether the number is even or
+odd using the ternary operator.
+=> A ternary operator evaluates a condition and executes a block of code based on the condition.It takes three operands.
+
+    Syntax is: condition ? expression1 : expression2
+    The ternary operator evaluates the test condition.
+    1. If the condition is true then expression1 is executed.
+    2. If the condition is false the expression2 is executed.
