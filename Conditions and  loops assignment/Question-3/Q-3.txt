@@ -3,6 +3,4 @@ examples.
 => Loops are used to perform repeated tasks based on a condition. A loop will continue running until the defined 
    condition returns false. Loops provide a quick and easy method of doing something repeatedly. They are used to
    repeat an action number of times without leaving to repeat the same line of code.
-
-   There are different types of loops:
-   1. for loop- 
+ 
