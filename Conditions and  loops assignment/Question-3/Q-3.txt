@@ -1,0 +1,38 @@
+Q3. What are loops, and what do we need them? Explain different types of loops with their syntax and
+examples.
+=> Loops are used to perform repeated tasks based on a condition. A loop will continue running until the defined 
+   condition returns false. Loops provide a quick and easy method of doing something repeatedly. They are used to
+   repeat an action number of times without leaving to repeat the same line of code.
+
+   There are different types of loops:
+   1. for loop- A for loop repeats until a specified condition revaluates to false.
+       
+       Syntax- for(initialization; condition; increment/decrement){
+                 // statement
+                } 
+       Example- for(let a= 1; i<=10; i++){
+                  console.log(a);
+                }
+      
+   2. While-loop- A while loop statement executes its statements until a specified condition evaluates to true.
+    
+      Syntax- while(condition){
+                 // statement
+               }
+      Example-  let i= 5;
+                while(i>0){
+                  console.log(i);
+                  i++;
+                }
+
+   3. do-while loop- The do-while loop statement repeats until a specified condition evaluates to false.
+
+       Syntax- do 
+                // statement
+                 while(condition);
+         
+       Example- let a=0;
+                do{
+                  a++;
+                  console.log(a);
+                }(a<10);
